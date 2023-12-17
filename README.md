@@ -42,7 +42,10 @@ const sakshxm08 = {
 ```
 
 ---
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sakshxm08&hide_border=true&border_radius=4&card_width=500)](https://git.io/streak-stats)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sakshxm08)](https://github.com/sakshxm08/github-readme-stats)
+---
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
