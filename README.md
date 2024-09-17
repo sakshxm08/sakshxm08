@@ -23,18 +23,19 @@ const sakshxm08 = {
     college: "Delhi Technological University",
     tagline: "From Code to Frames, I shape Digital Dreams!",
     pronouns: "He" | "Him",
-    askMeAbout: ["web dev", "tech", "design", "dsa", "video editing"],
-    code: ["Javascript", "C++"],
+    askMeAbout: ["web dev", "tech", "design", "ui/ux", "dsa", "video editing"],
+    code: ["Javascript", "C++", "Python"],
     technologies: {
         frontEnd: {
-          styling: ["Bootstrap", "TailwindCSS"],
+          styling: ["Bootstrap", "TailwindCSS", "ChakraUI"],
           libraries: "ReactJS"
         },
         backEnd: {
-            js: ["NodeJS", "Express"],
+            js: ["NodeJS", "Express", "Django", "Ruby on Rails"],
         },
-        databases: ["mongo", "MySql"],
-        misc: ["Firebase", "Socket.IO", "git"]
+        databases: ["MongoDB", "MySql"],
+        devOps: ["AWS (EC2, S3)", "Git", "CI/CD"]
+        misc: ["Redux", "Firebase", "Socket.IO", "Framer Motion", "GSAP", "RESTful APIs"]
     },
     architecture: ["Progressive web applications", "Single page applications"],
     funFact: "There are two ways to write error-free programs; only the third one works"
