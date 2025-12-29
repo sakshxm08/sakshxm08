@@ -4,7 +4,7 @@
 [![Github](https://img.shields.io/badge/-sakshxm08-green?color=2b3137&style=for-the-badge&logo=Github&logoColor=white&link=https://www.github.com/sakshxm08/)](https://www.github.com/sakshxm08/)
 [![Linkedin: sakshxm08](https://img.shields.io/badge/-sakshxm08-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sakshxm08/)](https://www.linkedin.com/in/sakshxm08/)
 <br>
-[![Static Badge](https://img.shields.io/badge/website-black?style=for-the-badge&logo=googlechrome&logoColor=%23fff&color=%23DD5144&link=https://sakshxm08.in/)](https://sakshxm08.in/)
+[![Static Badge](https://img.shields.io/badge/website-black?style=for-the-badge&logo=googlechrome&logoColor=%23fff&color=%23DD5144&link=https://buildwithsaksham.in/)](https://buildwithsaksham.in/)
 ![GitHub followers](https://img.shields.io/github/followers/sakshxm08?label=followers&style=for-the-badge&logo=Github&logoColor=%23ffffff&labelColor=%232b3137&color=blue)
 
 
