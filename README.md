@@ -11,9 +11,9 @@
 👇 Hit in your console or terminal to connect with me.
 
 ```bash
-npx sakshxm08
+npx buildwithsaksham
 ```
-**👆 This command line tool can be found at [npx sakshxm08](https://github.com/sakshxm08/npx_card)**
+**👆 This command line tool can be found at [npx buildwithsaksham](https://github.com/sakshxm08/buildwithsaksham/apps/npx)**
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
@@ -23,19 +23,19 @@ const sakshxm08 = {
     college: "Delhi Technological University",
     tagline: "From Code to Frames, I shape Digital Dreams!",
     pronouns: "He" | "Him",
-    askMeAbout: ["web dev", "tech", "design", "ui/ux", "dsa", "video editing"],
+    askMeAbout: ["web dev", "tech", "mcp", "rag", "ai", "design", "ui/ux", "dsa", "video editing"],
     code: ["Javascript", "C++", "Python"],
     technologies: {
         frontEnd: {
-          styling: ["Bootstrap", "TailwindCSS", "ChakraUI"],
-          libraries: "ReactJS"
+          styling: ["Bootstrap", "TailwindCSS", "ChakraUI", "ShadCN", "MagicUI"],
+          libraries: ["ReactJS", "Next.js", "Vue.js"]
         },
         backEnd: {
-            js: ["NodeJS", "Express", "Django", "Ruby on Rails"],
+            js: ["NodeJS", "Express", "Django", "Ruby on Rails", "Java Springboot"],
         },
         databases: ["MongoDB", "MySql"],
-        devOps: ["AWS (EC2, S3)", "Git", "CI/CD"]
-        misc: ["Redux", "Firebase", "Socket.IO", "Framer Motion", "GSAP", "RESTful APIs"]
+        devOps: ["AWS (EC2, S3, Bedrock)", "Git", "CI/CD", "SSH"]
+        misc: ["Redux", "Zustand", "Firebase", "Socket.IO", "Framer Motion", "GSAP", "RESTful APIs"]
     },
     architecture: ["Progressive web applications", "Single page applications"],
     funFact: "There are two ways to write error-free programs; only the third one works"
